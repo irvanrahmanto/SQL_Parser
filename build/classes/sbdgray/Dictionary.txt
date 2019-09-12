@@ -1,0 +1,3 @@
+Client;id_client;nama_client;alamat_client;jabatan;kelamin_client
+Perusahaan;id_perusahaan;nama_perusahaan
+Proyek;id_proyek;nama_proyek
